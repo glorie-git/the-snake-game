@@ -8,4 +8,4 @@ This is a tribute to the classic snake game on the Nokia 3310. However it is mai
 
 ## Running instructions
 
-Simply visit [[this link]](http://theesnakegame.netlify.app) to run the game.
+Simply visit [this link](http://theesnakegame.netlify.app) to run the game.
